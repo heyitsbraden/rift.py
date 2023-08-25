@@ -1,5 +1,5 @@
 # Documentation v1
-1. sav1.sav/sav2.sav are required for the game to run with save features, these files will be created automatically. If there are any issues with saving / loading, make sure those .sav files are present. The values can be modified for any custom game modes.
+1. savefile is required for the game to run with save features, these files will be created automatically. If there are any issues with saving / loading, make sure those .sav files are present. The values can be modified for any custom game modes.
 sav1.sav is Player and sav2.sav is Boss
 2. For any OS based issues, post a new issue in the heyitsbraden/riftSource github.
 3. For a multi-platform build, check the repo: heyitsbraden/riftHTML
